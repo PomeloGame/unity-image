@@ -1,0 +1,8 @@
+{
+  "name": "unity-image",
+  "version": "0.0.1",
+  "dependencies": {
+    "get-image-colors": "^1.8.1",
+    "pngjs-image": "^0.11.7"
+  }
+}
